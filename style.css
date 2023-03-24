@@ -1,0 +1,58 @@
+.main-container {
+    width: 900px;
+    height: 500px;
+    display: flex;
+    background-color: rgb(174, 237, 237);
+    border: 1px solid rgb(226, 221, 221);
+    margin: auto;
+}
+
+header {
+    font-weight: bolder;
+    font-size: larger;
+    text-align: center;
+
+}
+
+.input-box {
+    width: 600px;
+    border: 1px solid rgb(162, 159, 159);
+    text-align: center;
+
+}
+
+.result-box {
+    width: 300px;
+    border: 3px solid rgb(249, 245, 245);
+    text-align: center;
+
+}
+
+article {
+    width: 300px;
+    height: 20px;
+    color: aliceblue;
+    background-color: black;
+}
+
+section {
+    width: 600px;
+    height: 20px;
+    color: aliceblue;
+    background-color: black;
+}
+
+input {
+    margin: 20px;
+    padding: 1em 6em;
+}
+
+label {
+    font-weight: bolder;
+    color: rgb(19, 19, 20);
+}
+
+button {
+    background-color: black;
+    color: aliceblue;
+}
